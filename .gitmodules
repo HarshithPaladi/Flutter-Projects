@@ -1,0 +1,3 @@
+[submodule "flutter01"]
+	path = flutter01
+	url = https://github.com/HarshithPaladi/flutter-quiz-app.git
