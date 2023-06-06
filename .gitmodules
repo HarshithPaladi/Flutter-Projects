@@ -1,3 +1,6 @@
 [submodule "flutter01"]
 	path = flutter01
 	url = https://github.com/HarshithPaladi/flutter-quiz-app.git
+[submodule "weatherapi"]
+	path = weatherapi
+	url = https://github.com/HarshithPaladi/flutter-weatherapi.git
